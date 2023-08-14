@@ -1,4 +1,13 @@
 {
   "name": "Project01",
-  "displayName": "Project01"
+  "displayName": "Project01",
+  "expo": {
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "userInterfaceStyle": "automatic"
+    },
+    "android": {
+      "userInterfaceStyle": "automatic"
+    }
+  }
 }
